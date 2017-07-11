@@ -1,7 +1,7 @@
 Deep Learning Notebooks
 ==========================
 
-A series of Jupyter notebooks that walk you through NN, CNN, RNN, LSTM, GAN in python using Scikit-Learn and TensorFlow.
+A series of Jupyter notebooks that walk you through NNs, CNNs, RNNs, LSTMs, GANs in python using Scikit-Learn and TensorFlow.
 
 ## Python & Required Libraries
 Of course, you obviously need Python. Python 2 is already preinstalled on most systems nowadays, and sometimes even Python 3. You can check which version(s) you have by typing the following commands:
